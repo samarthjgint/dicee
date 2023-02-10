@@ -36,6 +36,7 @@ class _DiceState extends State<Dice> {
 
     return Container(
         child: Center(
+          // uygt
           child: Row(children: <Widget>[
             Expanded(
               child: FlatButton(
